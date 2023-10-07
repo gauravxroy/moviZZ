@@ -10,7 +10,7 @@ import "./style.scss";
 import useFetch from "../../hooks/useFetch";
 import { fetchDataFromTMDb } from "../../utils/api";
 import ContentWrapper from "../../components/contentWrapper/ContentWrapper";
-import MovieCard from "../../components/movieCard/MovieCard";
+import MovieCard from "../../components/moviecard/MovieCard";
 import Spinner from "../../components/spinner/Spinner";
 
 let filters = {};
