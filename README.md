@@ -1,4 +1,4 @@
-# React + Vite
+# MoviZZ
 #Movizz
 "**Movizz**: Explore and Watch Movies & TV Shows
 
