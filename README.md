@@ -1,6 +1,6 @@
 # MoviZZ
 #Movizz
-"**Movizz**: Explore and Watch Movies & TV Shows
+"**Movizz**: Explore and Watch Movies & TV Shows.
 
 [Introduction]#
 
