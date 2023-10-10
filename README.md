@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# MoviZZ
-#Movizz
-=======
+
 # Movizz
 
 "**Movizz**: Explore and Watch Movies & TV Shows.
