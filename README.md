@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # MoviZZ
 #Movizz
+=======
+# Movizz
+
+>>>>>>> 1aec7d2 (readme updated)
 "**Movizz**: Explore and Watch Movies & TV Shows.
 
 [Introduction]#
