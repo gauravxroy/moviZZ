@@ -23,7 +23,7 @@ Movizz is a cutting-edge web application developed using the latest web technolo
 
 **Real-Time Updates**: Stay in the loop with real-time updates on movie releases, trailers, and news. Movizz keeps you informed about the ever-evolving world of entertainment.
 
-**Privacy and Security**: Your privacy and security are our top priorities. Movizz follows industry-best practices to ensure your data remains protected.
+**Privacy and Security**: Your privacy and security are our top priorities. Movizz follows industry best practices to ensure your data remains protected.
 
 Experience Movizz today and embark on a cinematic journey like never before. Discover, watch, and share your love for movies and TV shows with Movizz."
 
