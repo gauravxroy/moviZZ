@@ -28,3 +28,4 @@ Movizz is a cutting-edge web application developed using the latest web technolo
 Experience Movizz today and embark on a cinematic journey like never before. Discover, watch, and share your love for movies and TV shows with Movizz."
 
 
+**Under Development :** 
